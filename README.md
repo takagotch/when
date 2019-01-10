@@ -3,6 +3,9 @@
 .js
 https://github.com/cujojs/when
 
+.go
+https://github.com/olebedev/when
+
 ```
 bower install --save when
 npm install --save when
